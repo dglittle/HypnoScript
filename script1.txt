@@ -1,0 +1,83 @@
+
+> defaultWait = 2.3
+
+I'm going to count down from 30 to 1
+As I count down, you may allow yourself to drift into a state of hypnotic trance, where your mind is relaxed and open to suggestions
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+
+I'm going to count down from 10 to 1
+As I count, you may imagine relexing more deeply and going deeper into trance
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+
+you may imagine a rotating red cube
+1
+2
+3
+4
+5
+
+you may imagine a tiger
+1
+2
+3
+4
+5
+
+you may imagine the inside of a volcano
+1
+2
+3
+4
+5
+
+I'm going to count up from 1 to 10
+As I count up, you may allow yourself to wake up
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
